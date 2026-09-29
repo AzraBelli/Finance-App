@@ -1,7 +1,7 @@
 # Finance Tracker
 
 A personal finance dashboard that shows income and expenses by category in a donut chart. It runs entirely in the browser.
-Original brief: [FINANS_TAKIP_SPEC.md](FINANS_TAKIP_SPEC.md).
+Original brief: [FINANCE_Tracking_SPEC.md](FINANCE_Tracking_SPEC.md).
 
 ## Setup
 

@@ -3,7 +3,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* ---------- Design tokens (FINANS_TAKIP_SPEC §7) ---------- */
+/* ---------- Design tokens (FINANCE_Tracking_SPEC §7) ---------- */
 :root {
   --bg: #eef1ec;
   --surface: #ffffff;
